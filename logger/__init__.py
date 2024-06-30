@@ -1,1 +1,1 @@
-from my_libraries.logger import *
+from logger.mylogger import *
